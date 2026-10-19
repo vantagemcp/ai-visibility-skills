@@ -6,6 +6,9 @@
   "author": { "name": "Vantage AI Visibility (vantagemcp.dev)", "email": "support@vantagemcp.dev" },
   "homepage": "https://vantagemcp.dev",
   "privacyPolicyUrl": "https://vantagemcp.dev/legal/",
+  "termsOfServiceUrl": "https://vantagemcp.dev/legal/",
+  "documentationUrl": "https://vantagemcp.dev/docs/",
+  "supportUrl": "https://github.com/vantagemcp/ai-visibility-skills/issues",
   "repository": "https://github.com/vantagemcp/ai-visibility-skills",
   "license": "MIT",
   "keywords": ["ai-visibility", "aeo", "geo", "citations", "seo", "mcp"]
