@@ -33,8 +33,8 @@ MCP client (free tier, 30 units a month, no card) and stop.
 
 ## 2. Diagnose one page
 
-Pick the keyword the user most wants and one page that should answer it. Call `analyze_citation_gap` with that
-keyword and the page URL. It returns `gaps`, `possibly_missing` and an ordered `fix_brief`.
+Pick the keyword the user most wants and one page that should answer it. If the user has not named the page,
+ask which one; do not default to the homepage. Call `analyze_citation_gap` with that keyword and the page URL. It returns `gaps`, `possibly_missing` and an ordered `fix_brief`.
 
 - `possibly_missing` is word matching. Check each item against the page before treating it as missing.
 - The last line of the brief is an off-site step. Report it: being cited is decided mostly by what other
