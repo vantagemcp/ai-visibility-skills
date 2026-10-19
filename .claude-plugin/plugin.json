@@ -3,8 +3,9 @@
   "displayName": "Vantage AI visibility",
   "version": "0.1.0",
   "description": "Check whether ChatGPT, Gemini and Perplexity cite your site, diagnose a page, apply the fix brief and re-check. Uses the hosted Vantage MCP server.",
-  "author": { "name": "Vantage", "email": "support@vantagemcp.dev" },
+  "author": { "name": "Vantage AI Visibility (vantagemcp.dev)", "email": "support@vantagemcp.dev" },
   "homepage": "https://vantagemcp.dev",
+  "privacyPolicyUrl": "https://vantagemcp.dev/legal/",
   "repository": "https://github.com/vantagemcp/ai-visibility-skills",
   "license": "MIT",
   "keywords": ["ai-visibility", "aeo", "geo", "citations", "seo", "mcp"]
