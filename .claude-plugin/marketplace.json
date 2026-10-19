@@ -1,0 +1,12 @@
+{
+  "name": "vantage",
+  "owner": { "name": "Vantage", "email": "support@vantagemcp.dev" },
+  "metadata": { "description": "Agent plugins for checking and improving how often AI answer engines cite a site." },
+  "plugins": [
+    {
+      "name": "vantage-ai-visibility",
+      "source": "./",
+      "description": "Check whether ChatGPT, Gemini and Perplexity cite your site, diagnose a page, apply the fix brief and re-check."
+    }
+  ]
+}

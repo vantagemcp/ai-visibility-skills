@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vantage": {
+      "type": "http",
+      "url": "https://vantagemcp.dev/mcp"
+    }
+  }
+}
